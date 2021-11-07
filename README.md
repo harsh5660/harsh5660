@@ -1,4 +1,4 @@
-### # Hello World, I'm Harshit Singh👋
+###  Hello World, I'm Harshit Singh👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/harsh5660/Harshit-Singh)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-singh-7a7a081aa/)
