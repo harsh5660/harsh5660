@@ -7,7 +7,7 @@
 ## I am a Developer, Programmer and a Learner
 
 - 🔭 I’m currently working on Web Applications 
-- 🌱 I’m currently learning UI/UX and Data Science 
+- 🌱 I’m currently learning Swift and IOS development 
 - 👯 I’m looking to collaborate on interesting development projects
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/His
