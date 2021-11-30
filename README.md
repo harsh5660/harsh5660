@@ -28,5 +28,5 @@
 <img src="https://img.icons8.com/color/50/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh5660&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=harsh5660&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
